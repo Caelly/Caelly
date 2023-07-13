@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caelly.Caelly&"  />
-</div>
-
-###
-
 <h1 align="center">Hellooooo 👋</h1>
 
 ###
