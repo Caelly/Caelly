@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Cellya, french freelance web developer <br><br>- 🔭 I’m working as a referent of the IT sector in a school of higher education<br>- ⚡ In my free time I develop lot of tools to help me in my daily life</p>
+<p align="left">I'm Cellya, french freelance web developer <br><br>- 🔭 I’m working as a referent of the IT sector in a school of higher education<br>
 
 ###
 
